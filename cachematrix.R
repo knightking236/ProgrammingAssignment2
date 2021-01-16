@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-
+##first function
 makeCacheMatrix <- function(x = matrix()) { ## define the argument with default mode of "matrix"
     inv <- NULL                             ## initialize inv as NULL; will hold value of matrix inverse 
     set <- function(y) {                    ## define the set function to assign new 
